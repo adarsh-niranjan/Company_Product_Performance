@@ -4,9 +4,9 @@
 
 ### Source:
 Contains all the source files from which the database objects were derived. <br>
-*Sales.csv <br>
-*Products.csv <br>
-*Customers.csv
+* Sales.csv <br>
+* Products.csv <br>
+* Customers.csv
 
 ### Output:
 Contains all the query results from *Create_Table.sql* and *Query.sql* in order as written in respective files. <br>
