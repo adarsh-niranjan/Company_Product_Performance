@@ -4,13 +4,13 @@
 ## A Data Analysis project using SQL (PostgreSQL - pgAdmin 4)
 
 ### Source:
-Contains all the source files from which the database objects were derived. <br>
+The **Source** folder contains all the source files from which the database objects were derived. <br>
 * Sales.csv <br>
 * Products.csv <br>
 * Customers.csv
 
 ### Output:
-Contains all the query results from *Create_Table.sql* and *Query.sql* in order as written in respective files. <br>
+The **Output** folder Contains all the query results from *Create_Table.sql* and *Query.sql* in order as written in respective files. <br>
 17 .csv result files
 
 ### Create_Table.sql:
