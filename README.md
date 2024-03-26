@@ -1,7 +1,7 @@
 # Company_Product_Performance
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/company-enterprise-icon.png" width=200 height=200>
 
-## Company Product Performance (CPP) is a data analysis project using SQL (PostgreSQL - pgAdmin 4)
+## Company Product Performance is a data analysis project on sold products using SQL (PostgreSQL - pgAdmin 4)
 
 ### Source:
 The **Source** folder contains all the source files from which the database objects were derived. <br>
