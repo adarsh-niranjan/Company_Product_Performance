@@ -20,4 +20,4 @@ Contains sql commands to create respective tables from *Sales.csv*, *Products.cs
 Contains actual queries, the results of which are stored in **Output** folder.
 
 ## Details:
-**We will be monitoring various sales aspects of our products and analysing on which metrics it performed well like region, age group, price, segment, customer base, etc. We will also take into consideration domains like sale, quantity, KPI’s, value estimation, through different segments of time.**
+**We will be monitoring various sales aspects of our products and analysing on which metrics it performed well like region, age group, price, segment, customer base, etc. We will also take into consideration domains like sale, quantity, KPI’s and value estimations through different segments of time.**
