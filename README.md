@@ -14,7 +14,7 @@ The **Output** folder Contains all the query results from *Create_Table.sql* and
 * csv result files (17)
 
 ### Create_Table.sql:
-Contains sql commands to create respective tables from *Sales.csv*, *Products.csv* and *Customers.csv* in **Source** folder.
+Contains SQL commands to create respective tables from *Sales.csv*, *Products.csv* and *Customers.csv* in **Source** folder.
 
 ### Query.sql:
 Contains actual queries, the results of which are stored in **Output** folder.
